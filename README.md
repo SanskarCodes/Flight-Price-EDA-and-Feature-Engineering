@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes flight pricing data using Python and various data analysis libraries.
+This project analyzes flight pricing data using Python and various data analysis libraries
 
 ## Technologies Used
 
